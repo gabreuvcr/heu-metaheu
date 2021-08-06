@@ -1,0 +1,24 @@
+att48      10782    0.699
+berlin52    7588    0.789
+kroA100    21583    8.097
+kroA150    27174   35.071
+kroA200    29994  123.408
+kroB100    22673    7.327
+kroB150    27058   42.357
+kroB200    30648  134.636
+kroC100    21090    7.469
+kroD100    22035    8.451
+kroE100    22564    7.565
+lin105     14585   12.456
+pr76      109209    4.801
+pr107      44648    9.769
+pr124      59975   11.476
+pr136     102511   28.792
+pr144      58638   25.260
+pr152      74690   45.869
+rat99       1241    6.153
+rat195      2368   61.042
+st70         682    1.443
+
+
+GRASP implementado em Python. A busca local é feita pelo método 2-OPT (primeiro aprimorante) a partir da solução inicial gulosa feita de forma aléatoria.
